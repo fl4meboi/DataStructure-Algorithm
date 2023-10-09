@@ -6,8 +6,8 @@ class Node {
 
 public:
 	Node(int name);
-	int getName() { return name; }
-	void setName(int name) { this->name = name; }
-	Node* getNext() { return next; }
-	void setNext(Node* next) { this->next = next; }
+	int getName() { return name; }					
+	void setName(int name) { this->name = name; }	
+	Node* getNext() { return next; }				
+	void setNext(Node* next) { this->next = next; }	
 };

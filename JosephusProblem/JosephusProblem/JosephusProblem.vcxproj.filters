@@ -21,6 +21,9 @@
     <ClCompile Include="Josephus.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Josephus2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Josephus.h">

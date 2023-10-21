@@ -1,0 +1,5 @@
+﻿  ArrayStack.cpp
+  LinkedListStack.cpp
+C:\Users\ASUS\Cpp_PL\DS&A_Studies\Study001\Study001\LinkedListStack.cpp(36,6): warning C4551: function call missing argument list
+  Generating Code...
+  Study001.vcxproj -> C:\Users\ASUS\Cpp_PL\DS&A_Studies\Study001\x64\Debug\Study001.exe

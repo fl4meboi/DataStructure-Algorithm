@@ -1,0 +1,14 @@
+﻿  ArrayStack.cpp
+C:\Users\ASUS\Cpp_PL\DS&A_Studies\DataStructure-Algorithm\ArrayStack\ArrayStack\ArrayStack.cpp(60,29): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  CircularQueue.cpp
+  CircularQueueSimple.cpp
+  LinkedListStack.cpp
+C:\Users\ASUS\Cpp_PL\DS&A_Studies\DataStructure-Algorithm\ArrayStack\ArrayStack\LinkedListStack.cpp(42,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  LinkedQueue.cpp
+C:\Users\ASUS\Cpp_PL\DS&A_Studies\DataStructure-Algorithm\ArrayStack\ArrayStack\LinkedQueue.cpp(41,7): warning C4101: 'Data': unreferenced local variable
+C:\Users\ASUS\Cpp_PL\DS&A_Studies\DataStructure-Algorithm\ArrayStack\ArrayStack\LinkedQueue.cpp(40,9): warning C4101: 'pRemoveNode': unreferenced local variable
+  Generating Code...
+C:\Users\ASUS\Cpp_PL\DS&A_Studies\DataStructure-Algorithm\ArrayStack\ArrayStack\ArrayStack.cpp(57): warning C4715: 'ArrayStack::PrintStackRemainingSum': not all control paths return a value
+CircularQueueSimple.obj : error LNK2005: main already defined in ArrayStack.obj
+LinkedListStack.obj : error LNK2005: main already defined in ArrayStack.obj
+C:\Users\ASUS\Cpp_PL\DS&A_Studies\DataStructure-Algorithm\ArrayStack\x64\Debug\ArrayStack.exe : fatal error LNK1169: one or more multiply defined symbols found

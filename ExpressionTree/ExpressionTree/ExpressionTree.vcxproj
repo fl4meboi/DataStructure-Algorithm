@@ -127,10 +127,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="BinaryTree.cpp" />
     <ClCompile Include="ExpressionTree.cpp" />
+    <ClCompile Include="ExpressionTreeEdit.cpp" />
+    <ClCompile Include="TreeTraverse.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Reference.md" />
+    <None Include="ExpressionTreeReference.md" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ExpressionTree.h" />
+    <ClInclude Include="ExpressionTreeEdit.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

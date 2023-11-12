@@ -131,6 +131,7 @@
     <ClCompile Include="ExpressionTree.cpp" />
     <ClCompile Include="ExpressionTreeEdit.cpp" />
     <ClCompile Include="TreeTraverse.cpp" />
+    <ClCompile Include="TreeTraverseSolution.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="ExpressionTreeReference.md" />

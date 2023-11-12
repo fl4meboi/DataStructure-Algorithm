@@ -16,7 +16,7 @@ using namespace std;
 
 만들어진 Stack을 각각 전위 순회, 중위 순회, 후위 순회 방식으로 print 
 
-*/ 
+
 
 #include<iostream>
 
@@ -148,3 +148,4 @@ int main()
 	PreOrder();
 	
 }
+*/

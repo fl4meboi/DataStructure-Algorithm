@@ -2,6 +2,7 @@
 
 using namespace std;
 
+/*
 class BinaryNode
 {
 	friend class BinaryTree;
@@ -125,3 +126,4 @@ int main()
 
 
 }
+*/

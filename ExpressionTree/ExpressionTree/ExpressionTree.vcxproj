@@ -130,6 +130,7 @@
     <ClCompile Include="BinaryTree.cpp" />
     <ClCompile Include="ExpressionTree.cpp" />
     <ClCompile Include="ExpressionTreeEdit.cpp" />
+    <ClCompile Include="PostFixNotion.cpp" />
     <ClCompile Include="TreeTraverse.cpp" />
     <ClCompile Include="TreeTraverseSolution.cpp" />
   </ItemGroup>
